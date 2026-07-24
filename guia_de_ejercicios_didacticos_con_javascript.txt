@@ -1,0 +1,42 @@
+Nivel Sencillo / Simple (Fundamentos y Sintaxis básica)
+
+1). Hola Mundo: Escribe un programa que imprima por consola el mensaje "¡Hola, mundo!".
+2). Suma de dos números: Declara dos variables con números, súmalos y muestra el resultado en la consola.
+3). Área de un triángulo: Crea una función que reciba la base y la altura de un triángulo y retorne su área ($\text{Área} = \frac{\text{base} \times \text{altura}}{2}$).
+4). Conversor de edad: Pide (o asigna en una variable) tu edad en años y calcula cuántos meses y días aproximadamente has vivido (puedes asumir 1 año = 365 días y 12 meses).
+5). ¿Par o impar?: Escribe una función que reciba un número y devuelva "Par" si el número es divisible por 2, o "Impar" en caso contrario.
+6). Conversor de temperaturas: Crea una función que convierta grados Celsius a Fahrenheit usando la fórmula: $\text{Fahrenheit} = (\text{Celsius} \times \frac{9}{5}) + 32$.
+7). El mayor de dos números: Escribe una función que reciba dos números y retorne cuál de ellos es mayor (o si son iguales).
+8). Imprimir números del 1 al 10: Utiliza un bucle (for o while) para imprimir en consola los números enteros del 1 al 10.
+9). Tabla de multiplicar: Crea una función que reciba un número y muestre en la consola su tabla de multiplicar del 1 al 10.
+10). Saludador personalizado: Escribe una función que reciba un nombre y una hora del día (mañana, tarde, noche) y salude acorde a la hora (ej: "Buenos días, Ana").
+
+
+
+
+
+
+Nivel Intermedio (Estructuras de datos, Arreglos y Objetos)
+
+1). Suma de elementos de un arreglo: Escribe una función que reciba un arreglo de números y devuelva la suma de todos sus elementos.
+2). Filtrar números pares: Dado un arreglo de números enteros, crea una función que devuelva un nuevo arreglo que contenga únicamente los números pares.
+3). Encontrar el número mayor: Escribe una función que reciba un arreglo de números y devuelva el valor máximo de ese arreglo (puedes usar métodos de arreglos o un bucle).
+4). Invertir una cadena de texto: Crea una función que reciba un string (por ejemplo, "hola") y devuelva el string invertido ("aloh").
+5). Gestor de un objeto (Estudiante): Crea un objeto estudiante que tenga propiedades como nombre, edad y un arreglo de calificaciones. Añade un método al objeto que calcule y 
+devuelva el promedio de sus calificaciones.
+
+
+
+
+
+
+Nivel Difícil (Lógica avanzada y Algoritmos)
+
+1). Verificador de Palíndromos: Escribe una función que reciba una cadena de texto y determine si es un palíndromo (se lee igual al derecho y al revés, 
+ignorando espacios y mayúsculas, por ejemplo: "Anita lava la tina" o "radar"), retornando true o false.
+
+2). Secuencia de Fibonacci: Crea una función que reciba un número n y devuelva un arreglo con los primeros n números de la secuencia de Fibonacci 
+(donde cada número es la suma de los dos anteriores: [0, 1, 1, 2, 3, 5, ...]).
+
+3). Filtro de duplicados (Elementos únicos): Escribe una función que reciba un arreglo con elementos repetidos y devuelva un nuevo arreglo que contenga únicamente los elementos
+únicos (sin usar directamente Set, o intenta resolverlo mediante lógica de bucles/condicionales para practicar el algoritmo).
